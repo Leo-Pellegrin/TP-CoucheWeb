@@ -1,7 +1,7 @@
 name: Docker
 on:
   push:
-    branches: [ master ]
+    branches: [ correction_service ]
   pull_request:
     branches: [ main ]
     

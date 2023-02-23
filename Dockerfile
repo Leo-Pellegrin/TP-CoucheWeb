@@ -10,3 +10,4 @@ RUN mvn package
 CMD java -jar target/*.jar
 #On documente l'utilisation du port 8080
 EXPOSE 8989
+#Commit test 
